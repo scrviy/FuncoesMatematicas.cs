@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zFHxVF93zUZK2Iqv3sYp3Z1PV+lRItLxzcUApZzeZXpcRhg6s55dcOOUZGaX68Oba06HsEan5kXOPI/Cplyzfg==",
+  "success": true,
+  "projectFilePath": "/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/FuncoesMatematicas.csproj",
+  "expectedPackageFiles": [
+    "/home/scrviy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/home/scrviy/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.13/microsoft.netcore.app.host.linux-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
