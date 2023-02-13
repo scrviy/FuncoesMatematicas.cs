@@ -1,0 +1,15 @@
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/bin/Debug/net6.0/FuncoesMatematicas
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/bin/Debug/net6.0/FuncoesMatematicas.deps.json
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/bin/Debug/net6.0/FuncoesMatematicas.runtimeconfig.json
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/bin/Debug/net6.0/FuncoesMatematicas.dll
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/bin/Debug/net6.0/FuncoesMatematicas.pdb
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/obj/Debug/net6.0/FuncoesMatematicas.csproj.AssemblyReference.cache
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/obj/Debug/net6.0/FuncoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/obj/Debug/net6.0/FuncoesMatematicas.AssemblyInfoInputs.cache
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/obj/Debug/net6.0/FuncoesMatematicas.AssemblyInfo.cs
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/obj/Debug/net6.0/FuncoesMatematicas.csproj.CoreCompileInputs.cache
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/obj/Debug/net6.0/FuncoesMatematicas.dll
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/obj/Debug/net6.0/refint/FuncoesMatematicas.dll
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/obj/Debug/net6.0/FuncoesMatematicas.pdb
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/obj/Debug/net6.0/FuncoesMatematicas.genruntimeconfig.cache
+/home/scrviy/Dev/.NET/Projects/FuncoesMatematicas/obj/Debug/net6.0/ref/FuncoesMatematicas.dll
